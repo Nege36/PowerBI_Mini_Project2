@@ -1,38 +1,31 @@
-# PowerBI_Mini_Project2
-Power BI Project – First Bank ATM Analysis Dashboard
+# Power BI Project – First Bank ATM Analysis Dashboard
 
-Project Overview 
-This dashboard provides a comprehensive analysis of ATM transaction data for First Bank branches across Nigeria. It offers a deep dive into customer behavior, transaction patterns, and branch performance — designed to support strategic decisions in banking operations, product development, and customer engagement.
+## Project Overview
+This dashboard provides a comprehensive analysis of ATM transaction data for First Bank branches across Nigeria. It offers insights into customer behavior, transaction patterns, and branch performance, designed to support strategic decision-making in banking operations, product development, and customer engagement.
 
-Key Insights Visualized
-Total Transactions: 2 million+ transactions analyzed
+## Key Insights Visualized
+- Total Transactions: Over 2 million transactions analyzed
+- Regional Distribution: Lagos, Enugu, Kano, Rivers, and FCT
+- Customer Demographics: Analysis by age group and occupation
+- Hourly Activity: Peak ATM transaction hours
+- Transaction Types: Balance inquiry, deposit, transfer, and withdrawal
+- Utilization Rate: ATM usage by state and customer volume
+- Transaction Volume & Averages: Monthly and location-based trends
+- Drill-through Filters: Interactive filtering by state, age group, occupation, and key metrics
 
-Regional Distribution: Lagos, Enugu, Kano, Rivers, and FCT
+## Tools & Technologies
+- Power BI Desktop
+- Microsoft Excel / CSV (raw data)
+- DAX (for measures and KPIs)
 
-Customer Demographics: Age group and occupation breakdown
+## Dashboard Preview
+![Dashboard Overview](dashboard_overview.png)
 
-Hourly Activity: Peak transaction hours visualized
+## Note on Power BI File
+The Power BI (.pbix) file is not included in this repository due to GitHub file size limitations.  
+However, screenshots of the dashboard and a detailed explanation of insights are provided.
 
-Transaction Types: Balance Inquiry, Deposit, Transfer, Withdrawal
-
-Utilization Rate: ATM usage by state and customer volume
-
-Transaction Volume & Averages: Monthly and location-based analysis
-
-Drill-Through Filters: Interactive filters by state, age group, occupation, and metrics
-
- Tools & Technologies:
-Power BI Desktop
-
-
-Raw data (Excel/CSV)
-
-
-DAX (for measures and KPIs)
-
-
-🧑‍💻 Author:
-Lubem Desmond Nege
- 📧 Email: negedesmond87@gmail.com
- 🔗 LinkedIn: linkedin.com/in/desmondnege
-
+## Author
+**Lubem Desmond Nege**  
+📧 Email: negedesmond87@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/desmondnege
